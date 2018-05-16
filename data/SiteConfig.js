@@ -6,12 +6,12 @@ module.exports = {
   siteTitleAlt: "GatsbyJS Casper Theme Starter", // Alternative site title for SEO.
   siteLogo:
     "", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
-  pathPrefix: "/danhua-blog/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  siteUrl: "http://zdanhua.com", // Domain of your website without pathPrefix.
+  pathPrefix: "/danhua-blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "CFA，基金经理，数字货币投资人，《区块链数字货币投资指南》作者", // Website description used for RSS feeds/meta description tag.
   siteCover:
-    "/danhua-blog/images/danhua-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "/images/danhua-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Casper User", // The author name used in the RSS file

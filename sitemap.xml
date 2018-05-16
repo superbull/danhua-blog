@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/丹华第一财经专访：比特币是升级版全球化的支付宝！</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/丹华颂</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/tags/专访/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/tags/诗歌/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/categories/区块链/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/categories/人生/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/author/danhua/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://haysclark.github.io/danhua-blog//danhua-blog/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/丹华第一财经专访：比特币是升级版全球化的支付宝！</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/丹华颂</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/tags/专访/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/tags/诗歌/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/categories/区块链/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/categories/人生/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/author/danhua/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zdanhua.com/danhua-blog/danhua-blog/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

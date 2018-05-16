@@ -1,0 +1,92 @@
+{
+  "assetsByChunkName": {
+    "path---丹华颂": [
+      "path---丹华颂-af80d8c5648ed4859e22.js",
+      "path---丹华颂-af80d8c5648ed4859e22.js.map"
+    ],
+    "path---author-danhua": [
+      "path---author-danhua-1bcdd63a03d001e6d32f.js",
+      "path---author-danhua-1bcdd63a03d001e6d32f.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-ed5a901a754970103307.js",
+      "component---src-layouts-index-jsx-ed5a901a754970103307.js.map"
+    ],
+    "path---丹华第一财经专访：比特币是升级版全球化的支付宝！": [
+      "path---丹华第一财经专访：比特币是升级版全球化的支付宝！-e118e64ed79c92d908f5.js",
+      "path---丹华第一财经专访：比特币是升级版全球化的支付宝！-e118e64ed79c92d908f5.js.map"
+    ],
+    "path---categories-区块链": [
+      "path---categories-区块链-4397d7e0e60d35a06e88.js",
+      "path---categories-区块链-4397d7e0e60d35a06e88.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-category-jsx": [
+      "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js",
+      "component---src-templates-category-jsx-3f9f38b2a16b22af9077.js.map"
+    ],
+    "path---index": [
+      "path---index-ee263bae7458f07f4b5d.js",
+      "path---index-ee263bae7458f07f4b5d.js.map"
+    ],
+    "component---src-pages-about-jsx": [
+      "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
+      "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
+    ],
+    "path---tags-专访": [
+      "path---tags-专访-fb766ed7a13e54a894b5.js",
+      "path---tags-专访-fb766ed7a13e54a894b5.js.map"
+    ],
+    "component---src-templates-author-jsx": [
+      "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js",
+      "component---src-templates-author-jsx-d9dcb651194ebdae2ab7.js.map"
+    ],
+    "commons": [
+      "commons-a776ff41ee951d0b9a20.js",
+      "build-js-styles.css",
+      "commons-a776ff41ee951d0b9a20.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---categories-人生": [
+      "path---categories-人生-2d87b0b1360d5d833737.js",
+      "path---categories-人生-2d87b0b1360d5d833737.js.map"
+    ],
+    "component---src-templates-tag-jsx": [
+      "component---src-templates-tag-jsx-2ad238f412722f53c978.js",
+      "component---src-templates-tag-jsx-2ad238f412722f53c978.js.map"
+    ],
+    "component---src-templates-index-jsx": [
+      "component---src-templates-index-jsx-7f211a338dd7b7c1306a.js",
+      "component---src-templates-index-jsx-7f211a338dd7b7c1306a.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-templates-post-jsx": [
+      "component---src-templates-post-jsx-95e93d8c60ad5f03bd5d.js",
+      "component---src-templates-post-jsx-95e93d8c60ad5f03bd5d.js.map"
+    ],
+    "app": [
+      "app-db71b9176fbf0cf0368b.js",
+      "build-js-styles.css",
+      "app-db71b9176fbf0cf0368b.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---tags-诗歌": [
+      "path---tags-诗歌-17115c53affadaf57a2b.js",
+      "path---tags-诗歌-17115c53affadaf57a2b.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

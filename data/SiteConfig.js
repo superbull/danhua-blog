@@ -11,7 +11,7 @@ module.exports = {
   siteDescription:
     "CFA，基金经理，数字货币投资人，《区块链数字货币投资指南》作者", // Website description used for RSS feeds/meta description tag.
   siteCover:
-    "/images/danhua-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "/danhua-blog/images/danhua-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
   siteRssAuthor: "Casper User", // The author name used in the RSS file

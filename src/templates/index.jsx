@@ -80,10 +80,10 @@ class IndexTemplate extends React.Component {
                 <div className="main-header-content inner">
                   <PageTitle text={config.siteTitle} />
                   <PageDescription text={config.siteDescription} />
-                  <SocialMediaIcons
+                  {/* <SocialMediaIcons
                     urls={config.siteSocialUrls}
                     color="currentColor"
-                  />
+                  /> */}
                 </div>
               </div>
               <Link

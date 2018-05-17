@@ -1,6 +1,6 @@
 ---
 title: "丹华颂"
-cover: "https://unsplash.it/1280/500/?random?BoldMage"
+cover: ""
 author: "danhua"
 date: "2011-07-11"
 category: "人生"

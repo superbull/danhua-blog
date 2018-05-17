@@ -19,13 +19,13 @@ function GetNavList(config) {
       primaryText: "证券投资",
       // LeftIcon: <p>home</p>,
       component: Link,
-      to: "/"
+      to: "/categories/证券投资"
     },
     {
       primaryText: "人生",
       // LeftIcon: <p>home</p>,
       component: Link,
-      to: "/"
+      to: "/categories/人生"
     },
     {
       divider: true

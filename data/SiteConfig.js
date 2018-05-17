@@ -43,6 +43,11 @@ module.exports = {
       iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
     }
   ],
+  categoryCovers: {
+    '区块链': 'images/blockchain.jpg',
+    '证券投资': 'images/invest.png',
+    '人生': 'images/life.png',
+  },
   // Copyright string for the footer of the website and RSS feed.
   copyright: {
     label: "曾丹华" // Label used before the year

@@ -116,6 +116,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         const tagSet = new Set();
         const tagMap = new Map();
         const categorySet = new Set();
+        const categoryMap = new Map();
         const authorSet = new Set();
         authorSet.add(siteConfig.blogAuthorId);
 
@@ -132,6 +133,10 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
           if (edge.node.frontmatter.category) {
             categorySet.add(edge.node.frontmatter.category);
+
+            const categoryArray = categoryMap.has(edge.node.frontmatter.category) ? categoryMap.get(edge.node.frontmatter.category) : [];
+            categoryArray.push(edge);
+            categoryMap.set(edge.node.frontmatter.category, categoryArray);
           }
 
           if (edge.node.frontmatter.author) {
@@ -156,15 +161,28 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           });
         });
 
+        const categoryFormatter = category => route =>
+          `/categories/${_.kebabCase(category)}/${route !== 1 ? route : ""}`;
         const categoryList = Array.from(categorySet);
         categoryList.forEach(category => {
-          createPage({
-            path: `/categories/${_.kebabCase(category)}/`,
+          // Creates category pages
+          createPaginationPages({
+            createPage,
+            edges: categoryMap.get(category),
             component: categoryPage,
+            pathFormatter: categoryFormatter(category),
+            limit: siteConfig.sitePaginationLimit,
             context: {
               category
             }
           });
+          // createPage({
+          //   path: `/categories/${_.kebabCase(category)}/`,
+          //   component: categoryPage,
+          //   context: {
+          //     category
+          //   }
+          // });
         });
 
         const authorList = Array.from(authorSet);

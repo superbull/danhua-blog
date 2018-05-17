@@ -44,15 +44,6 @@ class PostListing extends React.Component {
                   <Link to={path}>{title}</Link>
                 </h2>
               </PostHeader>
-              <section className="post-excerpt">
-                {/* TODO limit excerpt to 26 words */}
-                <p>
-                  {excerpt}{" "}
-                  <Link className="read-more" to={path}>
-                    &raquo;
-                  </Link>
-                </p>
-              </section>
               <footer className="post-meta">
                 <PostTags tags={tags} />
                 <PostDate date={date} />

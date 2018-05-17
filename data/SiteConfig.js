@@ -7,7 +7,7 @@ module.exports = {
   siteLogo:
     "", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "http://zdanhua.com", // Domain of your website without pathPrefix.
-  pathPrefix: "/danhua-blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
+  pathPrefix: "/danhua-blog/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
     "CFA，基金经理，数字货币投资人，《区块链数字货币投资指南》作者", // Website description used for RSS feeds/meta description tag.
   siteCover:

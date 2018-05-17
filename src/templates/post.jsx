@@ -119,14 +119,14 @@ class PostTemplate extends React.Component {
               />
 
               <PostFooter>
-                <AuthorImage author={authorData} />
-                <AuthorInfo prefix="/author" author={authorData} />
+                {/* <AuthorImage author={authorData} />
+                <AuthorInfo prefix="/author" author={authorData} /> */}
                 {/* <PostShare
                   postNode={postNode}
                   postPath={location.pathname}
                   config={config}
                 /> */}
-                <GhostSubscribe />
+                {/* <GhostSubscribe /> */}
                 <Disqus postNode={postNode} />
               </PostFooter>
             </PostFormatting>

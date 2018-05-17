@@ -44,9 +44,9 @@ module.exports = {
     }
   ],
   categoryCovers: {
-    '区块链': 'images/blockchain.jpg',
-    '证券投资': 'images/invest.png',
-    '人生': 'images/life.png',
+    '区块链': '/images/blockchain.jpg',
+    '证券投资': '/images/invest.jpg',
+    '人生': '/images/life.jpg',
   },
   // Copyright string for the footer of the website and RSS feed.
   copyright: {

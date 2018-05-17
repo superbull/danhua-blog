@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/danhua-blog/app-cfff9d1e340d8621a481.js","6d26911d8eeec4d8d591fce5c81e6db2"],["/danhua-blog/commons-4451d459b2ff7eb85e65.js","9c41dc737d96dc3cde903baf8768c536"],["/danhua-blog/index.html","1f1ee8c77f75283e20429709acdcb8b4"],["/danhua-blog/offline-plugin-app-shell-fallback/index.html","d2989361c66e0553d9478a187b29b71d"]];
+var precacheConfig = [["/danhua-blog/app-cfff9d1e340d8621a481.js","6d26911d8eeec4d8d591fce5c81e6db2"],["/danhua-blog/commons-bbb1ee141be8a335b148.js","e1831a02726d2f7b09e36df29547df1f"],["/danhua-blog/index.html","a49d2da15584709f144f930e082a30e5"],["/danhua-blog/offline-plugin-app-shell-fallback/index.html","119bf4eb4d893925adb356a34d862054"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 

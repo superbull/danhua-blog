@@ -11,7 +11,7 @@ class PostDate extends React.Component {
         className="post-date"
         dateTime={moment(new Date(date)).format("YYYY-MM-DD")}
       >
-        {moment(new Date(date)).format("DD MMMM YYYY")}
+        {moment(new Date(date)).format("YYYY-MM-DD")}
       </time>
     );
   }
